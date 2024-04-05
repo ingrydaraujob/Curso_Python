@@ -1,6 +1,6 @@
-nome = str(input("digite seu nome completo:")) .lower()
+nome = str(input("digite seu nome completo:")) .strip()
 
-if "silva" in nome:
+if "silva"  in nome.lower() :
     print("seu nome tem silva")
 else:
     print("seu nome nao tem silva")
