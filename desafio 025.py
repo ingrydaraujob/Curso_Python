@@ -1,10 +1,5 @@
-frase = input("digite uma frase:")
+frase =str(input("digite uma frase:")).upper().strip() 
 
-quant_a = frase.count("a") + frase.count("A")
-primeira_posição = min(frase.find("a"), frase.find("A"))
-ultima_posição = max(frase.rfind("a"), frase.rfind("A"))
-
-
-print(f"na frase contém: {quant_a} 'a' ")
-print(f"o primeiro 'a' esta na: {primeira_posição}")
-print(f"o ultima 'a' esta na: {ultima_posição}")
+print("A letra A aparece {} vezes".format(frase.count("A")))
+print("o primeiro letra A apareceu posição {}" .format(frase.find("A")+1))
+print("o ultima letra A apareceu na posição {}" .format(frase.rfind("A")+1))
