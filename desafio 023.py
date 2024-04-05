@@ -1,6 +1,2 @@
-cidade = str(input("digite o nome da cidade:"))
-
-if cidade.lower().startswith("santo"):
-    print("o nome da cidade começa com 'santo'.")
-else:
-    print("essa cidade não começa com 'santo'.")
+cidade = str(input("Em que cidade voce nasceu:")).strip()
+print(cidade[:5].upper() == "SANTO")
