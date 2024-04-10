@@ -1,4 +1,4 @@
-distancia = int(input("digite a distancia da viagem percorrida em km:"))
+distancia = float(input("digite a distancia da viagem percorrida em km:"))
 
 if distancia <= 200:
     passagem = distancia * 0.50
