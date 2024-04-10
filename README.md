@@ -57,4 +57,4 @@
 
 **Exercício 031:** Desenvolva um programa que pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 parta viagens mais longas.
 
-**Exercício 031:** Desenvolva um programa que pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 parta viagens mais longas.
+**Exercício 032:** : Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
