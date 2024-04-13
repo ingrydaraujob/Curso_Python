@@ -8,9 +8,3 @@ else:
     ("não podem formar um triangulo")
 
     
-'''if reta1 == reta2 == reta3:
-    print("pode formar um triangulo equilátero")
-elif reta1 != reta2 != reta3:
-    print("pode formar um triangulo escaleno")
-else:
-    print("triangulo isóceles")'''
