@@ -100,7 +100,7 @@
 
 – Acima de 25 anos: MASTER
 
-**Exercício 041:** Refaça o DESAFIO 35 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
+**Exercício 041:** Refaça o DESAFIO 34 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
 
 – EQUILÁTERO: todos os lados iguais
 
