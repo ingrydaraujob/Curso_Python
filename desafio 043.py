@@ -1,8 +1,9 @@
 preço = float(input("digite o valor do produto:"))
-print("digite 1 para a forma de pagamento ser em dinheiro ")
-print("digite 2 para a forma de pagamento ser em cartão ")
-print("digite 3 para a forma de pagamento ser em 2x no cartão  ")
-print("digite 4 para a forma de pagamento ser em 3x no cartão ")
+print(''' formas de pagamento
+      [1] a vista dinheiro/cheque
+      [2] a vista cartão 
+      [3] 2x no cartão
+      [4] 3x no cartão''')
 condiçãodepagamento = int(input("digite a condição de pagamento: "))
 
 if condiçãodepagamento == 1 :
