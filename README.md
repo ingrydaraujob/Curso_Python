@@ -120,7 +120,7 @@
 
 – Acima de 40: Obesidade Mórbida
 
-**Exercício 044:** Elabore um programa que calcule o valor a ser pago por um produto, considerando o seu preço normal e condição de pagamento:
+**Exercício 043:** Elabore um programa que calcule o valor a ser pago por um produto, considerando o seu preço normal e condição de pagamento:
 
 – à vista dinheiro/cheque: 10% de desconto
 
