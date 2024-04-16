@@ -132,5 +132,6 @@
 
 **Exercício 044:** Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
 
+**Exercício 045:** Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50. 
 
 
