@@ -19,6 +19,8 @@ while condição != 5:
     elif condição == 3:
         maior = max(num1,num2)
         print("o maior valor solicitado é:",maior)
+        if num1 == num2:
+            print("os numeros são iguais ")
     elif condição == 4:
         num1 = int(input("digite o novo valor:"))
         num2 = int(input("digite um novo valor:"))
