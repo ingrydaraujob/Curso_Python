@@ -19,4 +19,5 @@ while not acertou:
         elif jogador > computador:
             print("menos... tente mais uma vez.")
 print(f"Acertou com {palpites} tentativas, PARABÉNS!!, voce venceu")
+
     
