@@ -1,4 +1,6 @@
-sexo = str(input("informe seu sexo [m/f]:")).strip() .upper()[0]
-while sexo not in "mMFf":
-    s = str(input("dados invalidos. pfvr, informe seu sexo:")).strip() .upper()[0]
-print("sexo resgistrado com sucesso:",sexo)
+sexo = input("Digite o sexo (M/F): ").upper()
+while sexo not in ['M', 'F']:
+    sexo = input("Valor incorreto! Digite apenas M para masculino ou F para feminino: ").upper()
+
+print("Sexo digitado corretamente:", sexo)
+
