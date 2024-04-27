@@ -175,4 +175,4 @@ Seu programa deverá realizar a operação solicitada em cada caso.
 **Exercício 059:** Refaça o DESAFIO 51, lendo o primeiro termo e a razão de uma PA, mostrando os 10 primeiros termos da progressão usando a estrutura while. 
 
 
-**Exercício 060:** Melhore o DESAFIO 61, perguntando para o usuário se ele quer mostrar mais alguns termos. O programa encerrará quando ele disser que quer mostrar 0 termos.
+**Exercício 060:** Melhore o DESAFIO 59, perguntando para o usuário se ele quer mostrar mais alguns termos. O programa encerrará quando ele disser que quer mostrar 0 termos.
