@@ -176,3 +176,11 @@ Seu programa deverá realizar a operação solicitada em cada caso.
 
 
 **Exercício 060:** Melhore o DESAFIO 59, perguntando para o usuário se ele quer mostrar mais alguns termos. O programa encerrará quando ele disser que quer mostrar 0 termos.
+
+
+**Exercício 061:** Escreva um programa que leia um número N inteiro qualquer e mostre na tela os N primeiros elementos de uma Sequência de Fibonacci. Exemplo:
+0 – 1 – 1 – 2 – 3 – 5 – 8
+
+
+**Exercício 062** Crie um programa que leia vários números inteiros pelo teclado. O programa só vai parar quando o usuário digitar o valor 999, que é a condição de parada. No final, mostre quantos números foram digitados e qual foi a soma entre eles (desconsiderando o flag).
+
