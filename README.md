@@ -195,5 +195,11 @@ Seu programa deverá realizar a operação solicitada em cada caso.
 **Exercício 066:** Faça um programa que jogue par ou ímpar com o computador. O jogo só será interrompido quando o jogador perder, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
 
 
+**Exercício 067:** Crie um programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada, o programa deverá perguntar se o usuário quer ou não continuar. No final, mostre:
 
+A) quantas pessoas tem mais de 18 anos.
+
+B) quantos homens foram cadastrados.
+
+C) quantas mulheres tem menos de 20 anos.
 
