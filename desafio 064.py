@@ -1,6 +1,6 @@
 num = soma = cont = 0
 while True:
-    num = int(input("digite um numero inteiro:(e 999 para parar)"))
+    num = int(input("digite um numero inteiro:(e 999 para parar):"))
     if num == 999:
         break
     soma = soma + num
