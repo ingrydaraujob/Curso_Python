@@ -19,7 +19,7 @@ while True:
         mil += 1
     continuar = str(input("Quer continuar? [S/N] ")).upper().strip()[0]
     if continuar != "S":
-        print("FIM DO PREOGRAMA")
+        print("FIM DO PROGRAMA")
         break
 
 print(f"o total da compra foi de {gastos}")
