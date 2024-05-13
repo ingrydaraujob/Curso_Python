@@ -216,3 +216,5 @@ C) qual é o nome do produto mais barato.
 **Exercício 069:** Crie um programa que simule o funcionamento de um caixa eletrônico. No início, pergunte ao usuário qual será o valor a ser sacado (número inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues. OBS:
 
 considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1.
+
+**Exercício 070:** Crie um programa que tenha uma dupla totalmente preenchida com uma contagem por extenso, de zero até vinte. Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.
