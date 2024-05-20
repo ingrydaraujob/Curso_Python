@@ -7,12 +7,13 @@ lista = ("lapis" , 1.75,
               "mochila" , 120.32 ,
                "canetas" , 22.30 ,
                 "livro" , 34.90 )
-print("-"*30)
+print("-"*40)
 print("LISTAGEM DE PREÇO")
-print("-"*30)
+print("-"*40)
 
 for pos in range (0, len(lista)):
     if pos % 2 == 0:
         print(f"{lista[pos]:.<30}" , end="")
     else:
         print(f"R$ {lista[pos]:>7.2f}")
+print("-"*40)
