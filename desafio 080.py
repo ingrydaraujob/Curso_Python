@@ -12,7 +12,7 @@ while True:
     if res in "Nn":
         break
 
-print("-="*17)
+print("-="*16)
 print("lista completa:",valores)
 print("lista dos numeros pares:",par)
 print("lista dos nuemros impares:",impar)
