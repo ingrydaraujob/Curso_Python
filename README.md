@@ -276,3 +276,8 @@ C) Uma listagem com as pessoas mais leves.
 
 
 **Exercício 084:** Crie um programa que declare uma matriz de dimensão 3×3 e preencha com valores lidos pelo teclado. No final, mostre a matriz na tela, com a formatação correta.
+
+**Exercício 085:** Aprimore o desafio anterior, mostrando no final: 
+A) A soma de todos os valores pares digitados. 
+B) A soma dos valores da terceira coluna.
+C) O maior valor da segunda linha.
