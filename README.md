@@ -281,3 +281,9 @@ C) Uma listagem com as pessoas mais leves.
 A) A soma de todos os valores pares digitados. 
 B) A soma dos valores da terceira coluna.
 C) O maior valor da segunda linha.
+
+
+**Exercício 086:** Faça um programa que ajude um jogador da MEGA SENA a criar palpites.O programa vai perguntar quantos jogos serão gerados e vai sortear 6 números entre 1 e 60 para cada jogo, cadastrando tudo em uma lista composta.
+
+
+**Exercício 087:** Crie um programa que leia nome e duas notas de vários alunos e guarde tudo em uma lista composta. No final, mostre um boletim contendo a média de cada um e permita que o usuário possa mostrar as notas de cada aluno individualmente.
