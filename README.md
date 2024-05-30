@@ -287,3 +287,8 @@ C) O maior valor da segunda linha.
 
 
 **Exercício 087:** Crie um programa que leia nome e duas notas de vários alunos e guarde tudo em uma lista composta. No final, mostre um boletim contendo a média de cada um e permita que o usuário possa mostrar as notas de cada aluno individualmente.
+
+
+**Exercício 088:** Faça um programa que leia nome e média de um aluno, guardando também a situação em um dicionário. No final, mostre o conteúdo da estrutura na tela.
+
+
