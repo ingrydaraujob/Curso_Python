@@ -1,7 +1,7 @@
 aluno = {}
 lista = []
 aluno["nome"] = str(input("Nome:"))
-aluno["media"] = float(input(f"média de {aluno['nome']}"))
+aluno["media"] = float(input(f"média de {aluno['nome']}:"))
 if aluno["media"] >= 7:
     aluno["situação"] = "Aprovado"
 elif 5 <= aluno["media"] >= 7:
