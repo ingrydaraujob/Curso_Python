@@ -1,17 +1,18 @@
-""""dict = {}
-dict["nome"] = str(input("nome do jogador:"))
-dict["partidas"] = int(input("partidas jogadas:"))
-dict[" total de gols"] = int(input("total de gols:"))
-dict["media de gols"] = dict[" total de gols"] / dict["partidas"]
-for k, v in dict.items():
-    print(f" - {k} tem valor {v}")
-#print(dict)"""
-totgols = 0
 dict = {}
-dict["nome"] = str(input("nome do jogador:"))
-dict["partidas"] = int(input(f"quantas partidas {dict['nome']} jogou?"))
-for i in range(0,dict["partidas"]):
-    dict["gols"] = int(input(f"quantos gols na partida {i} ?"))
-    totgols += 1
-for k , v in dict.items():
-    print(f"- {k}")
+list = []
+dict["jogador"] = str(input("Nome do jogador:"))
+partidas = int(input(f"quantas partidas {dict['jogador']} jogou?"))
+for c in range(0,partidas):
+    list.append(int(input(f"quantos gols na partida {c}?")))
+dict["gols"] = list[:]
+dict["total"] = sum(list)
+print("-="*20)
+print(dict)
+print("-="*20)
+for k, v in dict.items():
+    print(f"o campo {k} tem o valor {v}")
+print("-="*20)
+print(f"o jogador{dict['jogador']} jogou {len(dict['gols'])} partidas ")
+for i , v in enumerate(dict["gols"]):
+    print(f"na partida {i}, fez {v} gols")
+print(f"foi um total de {dict["total"]} gols")
