@@ -304,6 +304,11 @@ C) O maior valor da segunda linha.
 **Exercício 092:** Aprimore o desafio 93 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.
 
 
-**Exercício 093:** Faça um programa que tenha uma função chamada área(), que receba as dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno.
+**Exercício 093:** Faça um programa que tenha uma função chamada área(), que receba as dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno
 
 
+
+**Exercício 094:** Faça um programa que tenha uma função chamada contador(), que receba três parâmetros: início, fim e passo. Seu programa tem que realizar três contagens através da função criada:
+a) de 1 até 10, de 1 em 1
+b) de 10 até 0, de 2 em 2
+c) uma contagem personalizada
