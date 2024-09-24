@@ -15,5 +15,5 @@ def somapar():
     print(f"a soma dos numeros {numeros} pares é {soma}")
 
 
-sorteio()
+sorteio()  
 somapar()
