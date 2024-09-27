@@ -8,5 +8,5 @@ def fatorial(num, show=False):
 
 num = int(input('Digite um número: '))
 mostrar = input('Deseja mostrar o cálculo? (S/N) ').upper() == 'S'
-resultado = fatorial(num, mostrar)
+resultado = fatorial(num, mostrar,)
 print(f'O fatorial de {num} é {resultado}')
