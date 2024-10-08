@@ -14,3 +14,4 @@ def eleição():
 
 nascimento = int(input("Em que ano você nasceu?"))
 print(eleição())
+    
