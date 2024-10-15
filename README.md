@@ -340,6 +340,15 @@ c) uma contagem personalizada
 **Exercício 101:** Crie um programa que tenha a função leiaInt(), que vai funcionar de forma semelhante ‘a função input() do Python, só que fazendo a validação para aceitar apenas um valor numérico. Ex: n = leiaInt(‘Digite um n: ‘)
 
 
+**Exercício 102:** Faça um programa que pode receber várias notas de alunos e vai retornar um dicionário com as seguintes informações:
+
+Quantidade de notas
+A maior nota
+A menor nota
+A média da turma
+A situação (opcional)
+
+
 
 
 
