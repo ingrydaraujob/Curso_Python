@@ -1,5 +1,5 @@
 ano = int(input("digite o ano que voce nasceu:"))
-ano1= 2024 - ano #trocar o 2024 pelo ano atual 
+ano1= 2025 - ano #trocar o 2025 pelo ano atual 
 print(f"voce tem {ano1} anos")
 if ano1 <= 9 :
     print("MIRIM")
